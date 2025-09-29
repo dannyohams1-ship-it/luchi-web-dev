@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-^yc9l8%zvzi62k6d&@&_0uht6%)cdccm2m=b$na*%%=fov4$3%
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG =False
 
-ALLOWED_HOSTS = ['drizzy.pythonanywhere.com', 'localhost', '127.0.0.1']
+ALLOWED_HOSTS = ['drizzy.pythonanywhere.com', 'localhost', '127.0.0.1','luchi-web-dev-1.onrender.com']
 STATIC_URL = '/static/'
 MEDIA_URL = '/media/'
 MEDIA_ROOT = BASE_DIR / 'media'
